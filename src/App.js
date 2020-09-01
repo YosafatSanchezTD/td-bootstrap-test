@@ -1,10 +1,11 @@
 import React from 'react';
 import './styles/App.css';
+import FirstPage from './components/FirstPage'
 
 function App() {
   return (
     <div className="App">
-      <p>Hello World!</p>
+      <FirstPage />
     </div>
   );
 }

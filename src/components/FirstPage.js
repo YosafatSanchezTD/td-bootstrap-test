@@ -95,6 +95,61 @@ function FirstPage() {
                 </div>
             </div>
 
+
+
+            <footer class="footer mt-auto py-3 indigo">
+                <div class="container-fluid mb-3">
+                    <div class="row text-white">
+                        <div class="col-md-2 mx-auto"><button type="button" class="btn btn-primary font-weight-bold p-4">Request demo</button></div>
+                        <div class="col-md-2 mx-auto"><button type="button" class="btn btn-outline-primary font-weight-bold p-4">Log in</button></div>
+                        <div class="col-md-1 mx-auto">
+                            <ul class="list-unstyled text-left text-nowrap font-weight-light small">
+                                <li><p class="text-muted text-left">Company</p></li>
+                                <li><p>About us</p></li>
+                                <li><p>Media assets</p></li>
+                                <li><p>Careers</p></li>
+                                <li><p>Contact</p></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-1 mx-auto">
+                            <ul class="list-unstyled text-left text-nowrap font-weight-light small">
+                                <li><p class="text-muted text-left">Product</p></li>
+                                <li><p>Pricing</p></li>
+                                <li><p>Roadmap</p></li>
+                                <li><p>Changelog</p></li>
+                                <li><p>API docs</p></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-1 mx-auto">
+                            <ul class="list-unstyled text-left text-nowrap font-weight-light small">
+                                <li><p class="text-muted text-left">Solutions</p></li>
+                                <li><p>Legal teams</p></li>
+                                <li><p>Sales teams</p></li>
+                                <li><p>HR teams</p></li>
+                                <li><p>Developers</p></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-1 mx-auto">
+                            <ul class="list-unstyled text-left text-nowrap font-weight-light small">
+                                <li><p class="text-muted text-left">Resources</p></li>
+                                <li><p>Blog</p></li>
+                                <li><p>Case studies</p></li>
+                                <li><p>Legal ops eBook</p></li>
+                                <li><p>Templates</p></li>
+                                <li><p>Help Center</p></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-1 mx-auto"><h5 class="text-white font-weight-bold">Juro</h5></div>
+                    </div>
+                </div>
+                <div class="container border-top" />
+                <div class="container clearfix mt-3">
+                    <p class="text-muted text-white float-left small">&copy; Juro 2018 All rights reserved</p>
+                    <p class="text-white float-right mx-3">Terms</p>
+                    <p class="text-white float-right">Privacy</p>
+                </div>
+            </footer>
+
         </div>
     );
 }

@@ -56,10 +56,42 @@ function FirstPage() {
                     <a class="btn btn-primary font-weight-bold" href="#">Request demo</a>
                 </div>
                 <div class="col-md-6 col-sm-12 px-3 px-md-5 text-center overflow-hidden indigo">
-                    <div class="my-0 mx-auto ">
-                    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/89f9adda-0ce2-41ca-bd0a-629c69bba8e5/dapuv77-136f3b3e-66ea-4d43-9bbd-e38008c80c4f.png/v1/fill/w_1024,h_1191,strp/deadpool_png__3_by_anna_x_anarchy_dapuv77-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMTkxIiwicGF0aCI6IlwvZlwvODlmOWFkZGEtMGNlMi00MWNhLWJkMGEtNjI5YzY5YmJhOGU1XC9kYXB1djc3LTEzNmYzYjNlLTY2ZWEtNGQ0My05YmJkLWUzODAwOGM4MGM0Zi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BiRn7SyNFJkkS4i8V8-fz8P0YqoC1zKWjbF5dsbMVJM" class="img-fluid" alt="Responsive image" />
+                    <div class="mx-auto w-100">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/89f9adda-0ce2-41ca-bd0a-629c69bba8e5/dapuv77-136f3b3e-66ea-4d43-9bbd-e38008c80c4f.png/v1/fill/w_1024,h_1191,strp/deadpool_png__3_by_anna_x_anarchy_dapuv77-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMTkxIiwicGF0aCI6IlwvZlwvODlmOWFkZGEtMGNlMi00MWNhLWJkMGEtNjI5YzY5YmJhOGU1XC9kYXB1djc3LTEzNmYzYjNlLTY2ZWEtNGQ0My05YmJkLWUzODAwOGM4MGM0Zi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BiRn7SyNFJkkS4i8V8-fz8P0YqoC1zKWjbF5dsbMVJM" class="img-fluid" alt="Responsive" />
                     </div>
-                    <div class="bg-dark shadow-sm mx-auto"></div>
+                </div>
+            </div>
+
+            <div class="row m-0">
+                <div class="col-md-2 col-sm-4 p-0">
+                    <div class="card border-0 rounded-0">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 p-0">
+                    <div class="card border-0 rounded-0">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 p-0">
+                    <div class="card border-0 rounded-0">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 p-0">
+                    <div class="card border-0 rounded-0">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 p-0">
+                    <div class="card border-0 rounded-0">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 p-0">
+                    <div class="card border-0 rounded-0">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                    </div>
                 </div>
             </div>
 

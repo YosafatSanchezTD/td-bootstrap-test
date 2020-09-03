@@ -6,7 +6,7 @@ function FirstPage() {
         <div>
             <nav class="navbar navbar-expand-lg  navbar-dark indigo">
                 <div class="container-fluid ">
-                    <a class="navbar-brand text-white" href="#">Juro</a>
+                    <a class="navbar-brand text-white font-weight-bold" href="#">Juro</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -53,7 +53,7 @@ function FirstPage() {
                 <div class="col-md-6 col-sm-12 p-3 p-md-5 text-left text-white overflow-hidden indigo">
                     <h1 class="display-4 font-weight-bolder">Make contracts the start of something great.</h1>
                     <p class="lead font-weight-light my-5">Contract management software your whole team will love.</p>
-                    <a class="btn btn-primary font-weight-bold" href="#">Request demo</a>
+                    <a class="btn btn-primary font-weight-bold p-3" href="#">Request demo</a>
                 </div>
                 <div class="col-md-6 col-sm-12 px-3 px-md-5 text-center overflow-hidden indigo">
                     <div class="mx-auto w-100">
@@ -95,13 +95,50 @@ function FirstPage() {
                 </div>
             </div>
 
+            <div class="container-fluid my-3">
+                <h1 class="display-4 font-weight-bolder text-left">Create contract magic.</h1>
+                <div class="container-fluid w-25 border-top border-danger text-left ml-0 my-3" />
+                <p class="text-left w-50 text-break">Contracts are agreed at the happiest point in your business life. Don't let legacy systems and pdfs get in the way of managing your most important business relationships</p>
+            </div>
+            <div class="container-fluid my-3">
+                <img src="https://lh3.googleusercontent.com/proxy/_zC2EqTuIx8ou8EIiJJxKi4dG5J3LWUqLX_adh_PnWO_CBjNCpu84e0oUZqDzhAes6yKPuLYHv5bpnWxhcSssDot-gLh1WEKxzCJE_WbKN0ei-cT34_H-fe_yaTroO2914pTjuh8hGNGmhhSpBtzmwwfDM4qi2xT" class="img-fluid" alt="Responsive image" />
+            </div>
+
+            <div class="d-md-flex flex-md-equal">
+                <div class="col-md-4 col-sm-12 p-3 p-md-5 text-left overflow-hidden">
+                    <h1 class="display-4 font-weight-bolder">Collaborate better.</h1>
+                    <div class="container-fluid w-25 border-top border-danger text-left ml-0 my-3" />
+                    <p class="lead font-weight-light my-5">Work smarter with inline commenting, versioning and seamless approval workflow within your browser</p>
+                    <a class="btn btn-primary font-weight-bold p-3" href="#">Learn more</a>
+                </div>
+                <div class="col-md-8 col-sm-12 px-3 px-md-5 text-center overflow-hidden">
+                    <div class="mx-auto w-100 my-5">
+                        <img src="https://i.dlpng.com/static/png/5514611-png-deadpool-png-world-dead-pool-png-268_562_preview.png" class="img-fluid" alt="Responsive" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="d-md-flex flex-md-equal">
+                <div class="col-md-8 col-sm-12 px-3 px-md-5 text-center overflow-hidden">
+                    <div class="mx-auto w-100 my-5">
+                        <img src="https://fondos.io/wp-content/uploads/2019/01/deadpool-wallpapers-hd_4816-640x360.jpg" class="img-fluid" alt="Responsive" />
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12 p-3 p-md-5 text-left overflow-hidden">
+                    <h1 class="display-4 font-weight-bolder">Get to yes faster.</h1>
+                    <div class="container-fluid w-25 border-top border-danger text-left ml-0 my-3" />
+                    <p class="lead font-weight-light my-5">Accelerate agreements with mobile-responsive documents and legally binding e-signature on any device to take the paper and the work out of paperwork</p>
+                    <a class="btn btn-primary font-weight-bold p-3" href="#">Learn more</a>
+                </div>
+            </div>
+
 
 
             <footer class="footer mt-auto py-3 indigo">
                 <div class="container-fluid mb-3">
                     <div class="row text-white">
-                        <div class="col-md-2 mx-auto"><button type="button" class="btn btn-primary font-weight-bold p-4">Request demo</button></div>
-                        <div class="col-md-2 mx-auto"><button type="button" class="btn btn-outline-primary font-weight-bold p-4">Log in</button></div>
+                        <div class="col-md-2 mx-auto my-3"><button type="button" class="btn btn-primary font-weight-bold p-4">Request demo</button></div>
+                        <div class="col-md-2 mx-auto my-3"><button type="button" class="btn btn-outline-primary font-weight-bold p-4">Log in</button></div>
                         <div class="col-md-1 mx-auto">
                             <ul class="list-unstyled text-left text-nowrap font-weight-light small">
                                 <li><p class="text-muted text-left">Company</p></li>

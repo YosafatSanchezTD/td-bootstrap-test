@@ -101,7 +101,7 @@ function FirstPage() {
                 <p class="text-left w-50 text-break">Contracts are agreed at the happiest point in your business life. Don't let legacy systems and pdfs get in the way of managing your most important business relationships</p>
             </div>
             <div class="container-fluid my-3">
-                <img src="https://lh3.googleusercontent.com/proxy/_zC2EqTuIx8ou8EIiJJxKi4dG5J3LWUqLX_adh_PnWO_CBjNCpu84e0oUZqDzhAes6yKPuLYHv5bpnWxhcSssDot-gLh1WEKxzCJE_WbKN0ei-cT34_H-fe_yaTroO2914pTjuh8hGNGmhhSpBtzmwwfDM4qi2xT" class="img-fluid" alt="Responsive image" />
+                <img src="https://revistapantallas.files.wordpress.com/2018/02/886.jpg?w=1280&h=720&crop=1" class="img-fluid" alt="Responsive image" />
             </div>
 
             <div class="d-md-flex flex-md-equal">
@@ -129,6 +129,89 @@ function FirstPage() {
                     <div class="container-fluid w-25 border-top border-danger text-left ml-0 my-3" />
                     <p class="lead font-weight-light my-5">Accelerate agreements with mobile-responsive documents and legally binding e-signature on any device to take the paper and the work out of paperwork</p>
                     <a class="btn btn-primary font-weight-bold p-3" href="#">Learn more</a>
+                </div>
+            </div>
+
+            <div class="d-md-flex flex-md-equal bg-light p-5">
+                <div class="col-md-4 col-sm-12 p-3 p-md-5 mx-5 text-left overflow-hidden">
+                    <h1 class="display-4 font-weight-bolder font-italic">Wolt</h1>
+                    <p class="lead font-weight-light">Creating business partnerships in minutes with frictionless contract management</p>
+                    <a class="font-weight-bold" href="#">Learn more &#8227;</a>
+                </div>
+                <div class="col-md-8 col-sm-12 px-3 px-md-5 text-center overflow-hidden">
+                    
+                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                        </ol>
+                        <div class="carousel-inner m-3">
+                            <div class="carousel-item active">
+                                <h3 class="font-weight-light">Juro is the best thing ever (Deadpool approved)</h3>
+                                <img src="https://www.cachicha.com/wp-content/uploads/03202c8f589af1b5-600x338.jpg" class="d-block w-100" alt="..." />
+                            </div>
+                            <div class="carousel-item">
+                                <h3 class="font-weight-light">Juro is the best thing ever (Deadpool approved x2)</h3>
+                                <img src="https://pulpfictioncine.com/download/multimedia.miniatura.adb9b0f82ac46581.63696e6573636170652d363033783333362d3330333038395f6d696e6961747572612e6a706567.jpeg" class="d-block w-100" alt="..." />
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="row m-2 text-left">
+                <div class="col-md-6">
+                    <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+                        <div class="col-auto d-block">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        </div>
+                        <div class="col px-4 py-5 d-flex flex-column position-static">
+                            <h5><a class="font-weight-bold" href="#">Juro for legal teams &#8227;</a></h5>
+                            <p class="card-text">Scale contract workflow, enable the business and get the insights you need.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+                        <div class="col-auto d-block">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        </div>
+                        <div class="col px-4 py-5 d-flex flex-column position-static">
+                            <h5><a class="font-weight-bold" href="#">Juro for sales teams &#8227;</a></h5>
+                            <p class="card-text">Close deals faster than ever before and delight your customers when it matters most.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+                        <div class="col-auto d-block">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        </div>
+                        <div class="col px-4 py-5 d-flex flex-column position-static">
+                            <h5><a class="font-weight-bold" href="#">Juro for developers &#8227;</a></h5>
+                            <p class="card-text">Embed contracts usind Juro's REST API and webhooks and do less support work.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+                        <div class="col-auto d-block">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        </div>
+                        <div class="col px-4 py-5 d-flex flex-column position-static">
+                            <h5><a class="font-weight-bold" href="#">Juro for HR teams &#8227;</a></h5>
+                            <p class="card-text">Make the right impression with the onboarding experience your people deserve.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
 

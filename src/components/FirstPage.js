@@ -134,7 +134,7 @@ function FirstPage() {
 
             <div class="d-md-flex flex-md-equal wolt p-5">
                 <div class="col-md-4 col-sm-12 p-3 p-md-5 mx-5 text-left overflow-hidden">
-                    <h1 class="display-4 font-weight-bolder font-italic">Wolt</h1>
+                    <h1 class="display-3 font-weight-bolder font-italic">Wolt</h1>
                     <p class="lead font-weight-light">Creating business partnerships in minutes with frictionless contract management</p>
                     <a class="font-weight-bold" href="#">Learn more &#8227;</a>
                 </div>
@@ -147,11 +147,11 @@ function FirstPage() {
                         </ol>
                         <div class="carousel-inner m-3">
                             <div class="carousel-item active">
-                                <h3 class="font-weight-light">Juro is the best thing ever (Deadpool approved)</h3>
+                                <p class="font-weight-light">Juro is the best thing ever (Deadpool approved)</p>
                                 <img src="https://www.cachicha.com/wp-content/uploads/03202c8f589af1b5-600x338.jpg" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <h3 class="font-weight-light">Juro is the best thing ever (Deadpool approved x2)</h3>
+                                <p class="font-weight-light">Juro is the best thing ever (Deadpool approved x2)</p>
                                 <img src="https://pulpfictioncine.com/download/multimedia.miniatura.adb9b0f82ac46581.63696e6573636170652d363033783333362d3330333038395f6d696e6961747572612e6a706567.jpeg" class="d-block w-100" alt="..." />
                             </div>
                         </div>

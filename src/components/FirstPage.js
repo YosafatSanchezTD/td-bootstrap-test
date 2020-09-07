@@ -65,32 +65,32 @@ function FirstPage() {
             <div class="row m-0">
                 <div class="col-md-2 col-sm-4 p-0">
                     <div class="card border-0 rounded-0">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        <img src="https://cdn.custom-cursor.com/packs/347/pack308.png" class="img-fluid" alt=" "/>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-4 p-0">
                     <div class="card border-0 rounded-0">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        <img src="https://cdn.custom-cursor.com/packs/347/pack308.png" class="img-fluid" alt=" "/>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-4 p-0">
                     <div class="card border-0 rounded-0">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        <img src="https://cdn.custom-cursor.com/packs/347/pack308.png" class="img-fluid" alt=" "/>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-4 p-0">
                     <div class="card border-0 rounded-0">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        <img src="https://cdn.custom-cursor.com/packs/347/pack308.png" class="img-fluid" alt=" "/>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-4 p-0">
                     <div class="card border-0 rounded-0">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        <img src="https://cdn.custom-cursor.com/packs/347/pack308.png" class="img-fluid" alt=" "/>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-4 p-0">
                     <div class="card border-0 rounded-0">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                        <img src="https://cdn.custom-cursor.com/packs/347/pack308.png" class="img-fluid" alt=" "/>
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@ function FirstPage() {
                 </div>
             </div>
 
-            <div class="d-md-flex flex-md-equal bg-light p-5">
+            <div class="d-md-flex flex-md-equal wolt p-5">
                 <div class="col-md-4 col-sm-12 p-3 p-md-5 mx-5 text-left overflow-hidden">
                     <h1 class="display-4 font-weight-bolder font-italic">Wolt</h1>
                     <p class="lead font-weight-light">Creating business partnerships in minutes with frictionless contract management</p>
@@ -168,11 +168,11 @@ function FirstPage() {
                 </div>
             </div>
 
-            <div class="row m-2 text-left">
+            <div class="row m-2 text-left pt-4">
                 <div class="col-md-6">
                     <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
                         <div class="col-auto d-block">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                            <img src="https://www.squatties.com/images/avatars/avatar-deadpool-256.png" class="img-fluid" alt=" "/>
                         </div>
                         <div class="col px-4 py-5 d-flex flex-column position-static">
                             <h5><a class="font-weight-bold" href="#">Juro for legal teams &#8227;</a></h5>
@@ -183,7 +183,7 @@ function FirstPage() {
                 <div class="col-md-6">
                     <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
                         <div class="col-auto d-block">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                            <img src="https://www.squatties.com/images/avatars/avatar-deadpool-256.png" class="img-fluid" alt=" "/>
                         </div>
                         <div class="col px-4 py-5 d-flex flex-column position-static">
                             <h5><a class="font-weight-bold" href="#">Juro for sales teams &#8227;</a></h5>
@@ -194,7 +194,7 @@ function FirstPage() {
                 <div class="col-md-6">
                     <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
                         <div class="col-auto d-block">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                            <img src="https://www.squatties.com/images/avatars/avatar-deadpool-256.png" class="img-fluid" alt=" "/>
                         </div>
                         <div class="col px-4 py-5 d-flex flex-column position-static">
                             <h5><a class="font-weight-bold" href="#">Juro for developers &#8227;</a></h5>
@@ -205,7 +205,7 @@ function FirstPage() {
                 <div class="col-md-6">
                     <div class="row overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
                         <div class="col-auto d-block">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" class="img-fluid" alt=" "/>
+                            <img src="https://www.squatties.com/images/avatars/avatar-deadpool-256.png" class="img-fluid" alt=" "/>
                         </div>
                         <div class="col px-4 py-5 d-flex flex-column position-static">
                             <h5><a class="font-weight-bold" href="#">Juro for HR teams &#8227;</a></h5>
